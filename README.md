@@ -69,6 +69,8 @@ df.to_csv("processed.csv", index = False)
 
 ## 2. Embedding Generation
 
+Link to BioBert model card on Hugging Face: [BioBert](https://huggingface.co/pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb)
+
 Loading required dependencies and pre-trained model for embedding:
 
 ```python
